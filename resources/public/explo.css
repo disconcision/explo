@@ -1,7 +1,9 @@
-
+body {
+    background-color: #999;
+}
 div, h1, input {
     font-family: HelveticaNeue, Helvetica;
-    color: #777;
+    color: #ccc;
 }
 
 .example-clock {
